@@ -67,5 +67,4 @@ Swagger: http://127.0.0.1:8000/docs
 | DELETE | /livros/{id} | Remove livro | 204 / 404 |
 
 ## Integrantes
-- Nome 1
-- Nome 2
+- ADRIANO LIMA DE PINHO 
